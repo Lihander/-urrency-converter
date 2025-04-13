@@ -1,0 +1,36 @@
+// Color palette with cc prefix
+:root {
+  // White shades
+  --cc-white: #ffffff;
+  --cc-white-soft: #f8f8f8;
+  --cc-white-mute: #f2f2f2;
+
+  // Black shades
+  --cc-black: #181818;
+  --cc-black-soft: #222222;
+  --cc-black-mute: #282828;
+
+  // Accent color
+  --cc-indigo: #2c3e50;
+  --cc-primary: #007bff;
+  --cc-danger: #dc3545;
+
+  // Text colors
+  --cc-text-primary: #333;
+  --cc-text-secondary: #666;
+  --cc-text-light: #f8f9fa;
+
+  // Divider colors
+  --cc-divider-light-1: rgba(60, 60, 60, 0.29);
+  --cc-divider-light-2: rgba(60, 60, 60, 0.12);
+  --cc-divider-dark-1: rgba(84, 84, 84, 0.65);
+  --cc-divider-dark-2: rgba(84, 84, 84, 0.48);
+
+  // Border colors
+  --cc-border: #ddd;
+  --cc-border-focus: var(--cc-primary);
+  --cc-border-error: var(--cc-danger);
+
+  // Shadow colors
+  --cc-shadow: rgba(0, 0, 0, 0.1);
+}
